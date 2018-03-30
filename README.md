@@ -3,7 +3,7 @@
 ## Description
 A part of my graduation project that measures distance using raspberry pi and ultrasonic sensor and takes actions according to the distance
 
-## Components:
+## Hardware Components:
 * Raspberry Pi 3 Model B
 * HC-SR04 sensor
 * Buzzer
