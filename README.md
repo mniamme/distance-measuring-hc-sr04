@@ -12,4 +12,4 @@ A part of my graduation project that measures distance using raspberry pi and ul
 ![Circuit Diagram](/sensor-diagram.png)
 
 ## Preview Video
-Watch the video on [youtube](https://youtu.be/p20rCRNlbj0)
+Watch video on [youtube](https://youtu.be/p20rCRNlbj0)
